@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.logout-btn {
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 14px;
+}
